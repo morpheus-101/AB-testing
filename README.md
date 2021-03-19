@@ -1,6 +1,6 @@
 # AB-testing
 
-[Comprehensive report with tests and results](https://github.com/RishikeshDhayarkar/AB-testing/blob/main/Udacity_ab-converted.pdf)
+[Link to comprehensive report with tests and results](https://github.com/RishikeshDhayarkar/AB-testing/blob/main/Udacity_ab-converted.pdf)
 
 ### Experiment Overview: Free Trial Screener 
 
