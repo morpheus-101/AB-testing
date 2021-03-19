@@ -17,3 +17,6 @@ This experiment was designed to determine if filtering students as a function of
 A statistically and practically significant decrease in Gross Conversion was observed from the results of both sign test and effect size calculation test. But there was no significant difference observed in Net Conversion for either of the tests. 
 
 This shows that decrease in enrollment is not strongly associated to increase in the number of students staying for the requisite 14 days such that the at least one payment gets triggered. Based on this I would recommend not to launch the feature at this stage. More tests and data collection should be pursued.
+
+[Comprehensive report with tests and results](https://github.com/RishikeshDhayarkar/AB-testing/blob/main/Udacity_ab-converted.pdf)
+
