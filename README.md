@@ -11,7 +11,9 @@ In the experiment, Udacity tested a change where if the student clicked "start f
 
 ### Objectives of this experiment: 
 • Lesser number dropouts from the free trail stage before the 14-day trial period.
-• Improve overall student experience by providing a realistic view of course expectations 
+
+• Improve overall student experience by providing a realistic view of course expectations
+
 • Improve the capacity of coaches to support students who are likely to finish the course
 
 ### Conclusion
